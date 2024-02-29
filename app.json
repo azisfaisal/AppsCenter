@@ -22,7 +22,12 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.azisfaisal.AppsCenter"
+      "package": "com.azisfaisal.AppsCenter",
+      "config": {
+        "appSecret": {
+          "value": "67ef6970-77b5-44da-b32b-1f5a45503fb5"
+        }
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
